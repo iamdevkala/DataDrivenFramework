@@ -1,0 +1,513 @@
+09:36:12,211 ERROR testcases.LoginTest:25 - this is a test 
+09:58:31,826  INFO testcases.LoginTest:26 - login test started ....... 
+09:58:32,013  INFO testcases.LoginTest:28 - username entered
+09:58:32,160  INFO testcases.LoginTest:30 - password entered
+09:58:32,299  INFO testcases.LoginTest:32 - confirmed username
+09:58:32,483  INFO testcases.LoginTest:34 - login button clicked
+09:58:32,484  INFO testcases.LoginTest:35 - successful
+10:00:10,799  INFO testcases.LoginTest:26 - login test started ....... 
+10:00:10,981  INFO testcases.LoginTest:29 - username entered
+10:00:11,114  INFO testcases.LoginTest:32 - password entered
+10:00:11,227  INFO testcases.LoginTest:35 - confirmed username
+10:00:11,405  INFO testcases.LoginTest:38 - login button clicked
+10:00:11,407  INFO testcases.LoginTest:40 - login successful
+09:46:44,701  INFO testcases.LoginTest:33 - login test started ....... 
+09:46:44,919  INFO testcases.LoginTest:36 - username entered
+09:46:45,049  INFO testcases.LoginTest:39 - password entered
+09:46:45,168  INFO testcases.LoginTest:42 - confirmed username
+09:46:45,352  INFO testcases.LoginTest:45 - login button clicked
+09:46:46,429  INFO testcases.LoginTest:50 - login successful
+09:46:58,320  INFO testcases.LoginTest:33 - login test started ....... 
+09:46:58,530  INFO testcases.LoginTest:36 - username entered
+09:46:58,666  INFO testcases.LoginTest:39 - password entered
+09:46:58,797  INFO testcases.LoginTest:42 - confirmed username
+09:46:58,984  INFO testcases.LoginTest:45 - login button clicked
+09:47:00,050  INFO testcases.LoginTest:50 - login successful
+09:47:12,390  INFO testcases.LoginTest:33 - login test started ....... 
+09:47:12,531  INFO testcases.LoginTest:36 - username entered
+09:47:12,663  INFO testcases.LoginTest:39 - password entered
+09:47:12,821  INFO testcases.LoginTest:42 - confirmed username
+09:47:13,057  INFO testcases.LoginTest:45 - login button clicked
+09:47:14,094  INFO testcases.LoginTest:50 - login successful
+09:55:36,048  INFO testcases.LoginTest:34 - login test started ....... 
+09:55:36,228  INFO testcases.LoginTest:37 - username entered
+09:55:36,343  INFO testcases.LoginTest:40 - password entered
+09:55:36,450  INFO testcases.LoginTest:43 - confirmed username
+09:55:36,654  INFO testcases.LoginTest:46 - login button clicked
+09:55:50,102  INFO testcases.LoginTest:34 - login test started ....... 
+09:55:50,365  INFO testcases.LoginTest:37 - username entered
+09:55:50,510  INFO testcases.LoginTest:40 - password entered
+09:55:50,631  INFO testcases.LoginTest:43 - confirmed username
+09:55:50,881  INFO testcases.LoginTest:46 - login button clicked
+09:56:04,318  INFO testcases.LoginTest:34 - login test started ....... 
+09:56:04,592  INFO testcases.LoginTest:37 - username entered
+09:56:04,779  INFO testcases.LoginTest:40 - password entered
+09:56:04,970  INFO testcases.LoginTest:43 - confirmed username
+09:56:05,265  INFO testcases.LoginTest:46 - login button clicked
+09:58:36,207  INFO testcases.LoginTest:34 - login test started ....... 
+09:58:36,456  INFO testcases.LoginTest:37 - username entered
+09:58:36,610  INFO testcases.LoginTest:40 - password entered
+09:58:36,755  INFO testcases.LoginTest:43 - confirmed username
+09:58:37,096  INFO testcases.LoginTest:46 - login button clicked
+09:58:49,693  INFO testcases.LoginTest:34 - login test started ....... 
+09:58:49,883  INFO testcases.LoginTest:37 - username entered
+09:58:49,988  INFO testcases.LoginTest:40 - password entered
+09:58:50,089  INFO testcases.LoginTest:43 - confirmed username
+09:58:50,186  INFO testcases.LoginTest:46 - login button clicked
+09:58:51,205  INFO testcases.LoginTest:51 - login successful
+09:59:03,298  INFO testcases.LoginTest:34 - login test started ....... 
+09:59:03,479  INFO testcases.LoginTest:37 - username entered
+09:59:03,645  INFO testcases.LoginTest:40 - password entered
+09:59:03,805  INFO testcases.LoginTest:43 - confirmed username
+09:59:04,125  INFO testcases.LoginTest:46 - login button clicked
+09:59:05,157  INFO testcases.LoginTest:51 - login successful
+10:20:17,636  INFO testcases.LoginTest:34 - login test started ....... 
+10:20:17,918  INFO testcases.LoginTest:37 - username entered
+10:20:18,088  INFO testcases.LoginTest:40 - password entered
+10:20:18,269  INFO testcases.LoginTest:43 - confirmed username
+10:20:18,496  INFO testcases.LoginTest:46 - login button clicked
+10:20:31,744  INFO testcases.LoginTest:34 - login test started ....... 
+10:20:31,998  INFO testcases.LoginTest:37 - username entered
+10:20:32,132  INFO testcases.LoginTest:40 - password entered
+10:20:32,283  INFO testcases.LoginTest:43 - confirmed username
+10:20:32,494  INFO testcases.LoginTest:46 - login button clicked
+10:20:33,534  INFO testcases.LoginTest:51 - login successful
+10:20:45,555  INFO testcases.LoginTest:34 - login test started ....... 
+10:20:45,706  INFO testcases.LoginTest:37 - username entered
+10:20:45,836  INFO testcases.LoginTest:40 - password entered
+10:20:45,961  INFO testcases.LoginTest:43 - confirmed username
+10:20:46,097  INFO testcases.LoginTest:46 - login button clicked
+10:20:47,164  INFO testcases.LoginTest:51 - login successful
+10:30:11,379  INFO testcases.LoginTest:34 - login test started ....... 
+10:30:11,635  INFO testcases.LoginTest:37 - username entered
+10:30:11,803  INFO testcases.LoginTest:40 - password entered
+10:30:11,953  INFO testcases.LoginTest:43 - confirmed username
+10:30:12,314  INFO testcases.LoginTest:46 - login button clicked
+10:30:13,368  INFO testcases.LoginTest:51 - login successful
+10:30:25,659  INFO testcases.LoginTest:34 - login test started ....... 
+10:30:25,886  INFO testcases.LoginTest:37 - username entered
+10:30:26,092  INFO testcases.LoginTest:40 - password entered
+10:30:26,312  INFO testcases.LoginTest:43 - confirmed username
+10:30:26,504  INFO testcases.LoginTest:46 - login button clicked
+10:30:27,525  INFO testcases.LoginTest:51 - login successful
+10:38:25,472  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:38:25,787  INFO testcases.LoginTest:37 - username entered
+10:38:25,970  INFO testcases.LoginTest:40 - password entered
+10:38:26,126  INFO testcases.LoginTest:43 - confirmed username
+10:38:26,328  INFO testcases.LoginTest:46 - login button clicked
+10:38:27,409  INFO testcases.LoginTest:51 - login successful
+10:38:39,787  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:38:40,007  INFO testcases.LoginTest:37 - username entered
+10:38:40,239  INFO testcases.LoginTest:40 - password entered
+10:38:40,429  INFO testcases.LoginTest:43 - confirmed username
+10:38:40,750  INFO testcases.LoginTest:46 - login button clicked
+10:38:41,777  INFO testcases.LoginTest:51 - login successful
+10:38:54,009  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:38:54,169  INFO testcases.LoginTest:59 - username entered
+10:38:54,284  INFO testcases.LoginTest:62 - password entered
+10:38:54,404  INFO testcases.LoginTest:65 - confirmed username
+10:38:54,578  INFO testcases.LoginTest:68 - login button clicked
+10:41:36,153  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:41:36,372  INFO testcases.LoginTest:59 - username entered
+10:41:36,512  INFO testcases.LoginTest:62 - password entered
+10:41:36,622  INFO testcases.LoginTest:65 - confirmed username
+10:41:36,826  INFO testcases.LoginTest:68 - login button clicked
+10:41:38,185  INFO testcases.LoginTest:73 - login successful
+10:52:57,569  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:52:57,825  INFO testcases.LoginTest:37 - username entered
+10:52:57,970  INFO testcases.LoginTest:40 - password entered
+10:52:58,113  INFO testcases.LoginTest:43 - confirmed username
+10:52:58,267  INFO testcases.LoginTest:46 - login button clicked
+10:52:59,297  INFO testcases.LoginTest:51 - login successful
+10:53:11,378  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:53:11,632  INFO testcases.LoginTest:37 - username entered
+10:53:11,850  INFO testcases.LoginTest:40 - password entered
+10:53:12,058  INFO testcases.LoginTest:43 - confirmed username
+10:53:12,296  INFO testcases.LoginTest:46 - login button clicked
+10:53:13,329  INFO testcases.LoginTest:51 - login successful
+10:53:25,351  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:53:25,541  INFO testcases.LoginTest:59 - username entered
+10:53:25,694  INFO testcases.LoginTest:62 - password entered
+10:53:25,838  INFO testcases.LoginTest:65 - confirmed username
+10:53:26,093  INFO testcases.LoginTest:68 - login button clicked
+10:53:27,430  INFO testcases.LoginTest:73 - login successful
+11:05:08,920  INFO testcases.LoginTest:56 - valid login test started ....... 
+11:05:09,143  INFO testcases.LoginTest:59 - username entered
+11:05:09,282  INFO testcases.LoginTest:62 - password entered
+11:05:09,415  INFO testcases.LoginTest:65 - confirmed username
+11:05:09,553  INFO testcases.LoginTest:68 - login button clicked
+11:05:10,889  INFO testcases.LoginTest:73 - login successful
+11:07:39,492  INFO testcases.LoginTest:34 - invalid login test started ....... 
+11:07:39,706  INFO testcases.LoginTest:37 - username entered
+11:07:39,842  INFO testcases.LoginTest:40 - password entered
+11:07:39,974  INFO testcases.LoginTest:43 - confirmed username
+11:07:40,127  INFO testcases.LoginTest:46 - login button clicked
+11:07:41,172  INFO testcases.LoginTest:51 - login successful
+11:07:53,572  INFO testcases.LoginTest:34 - invalid login test started ....... 
+11:07:53,793  INFO testcases.LoginTest:37 - username entered
+11:07:53,998  INFO testcases.LoginTest:40 - password entered
+11:07:54,198  INFO testcases.LoginTest:43 - confirmed username
+11:07:54,374  INFO testcases.LoginTest:46 - login button clicked
+11:07:55,392  INFO testcases.LoginTest:51 - login successful
+11:08:51,464  INFO testcases.LoginTest:34 - invalid login test started ....... 
+11:08:51,673  INFO testcases.LoginTest:37 - username entered
+11:08:51,813  INFO testcases.LoginTest:40 - password entered
+11:08:51,934  INFO testcases.LoginTest:43 - confirmed username
+11:08:52,186  INFO testcases.LoginTest:46 - login button clicked
+11:08:53,260  INFO testcases.LoginTest:51 - login successful
+11:09:05,101  INFO testcases.LoginTest:34 - invalid login test started ....... 
+11:09:05,227  INFO testcases.LoginTest:37 - username entered
+11:09:05,390  INFO testcases.LoginTest:40 - password entered
+11:09:05,569  INFO testcases.LoginTest:43 - confirmed username
+11:09:05,810  INFO testcases.LoginTest:46 - login button clicked
+11:09:06,855  INFO testcases.LoginTest:51 - login successful
+11:09:18,760  INFO testcases.LoginTest:56 - valid login test started ....... 
+11:09:18,902  INFO testcases.LoginTest:59 - username entered
+11:09:19,023  INFO testcases.LoginTest:62 - password entered
+11:09:19,133  INFO testcases.LoginTest:65 - confirmed username
+11:09:19,313  INFO testcases.LoginTest:68 - login button clicked
+11:09:20,707  INFO testcases.LoginTest:73 - login successful
+09:28:53,136  INFO testcases.LoginTest:34 - invalid login test started ....... 
+09:28:53,438  INFO testcases.LoginTest:37 - username entered
+09:28:53,574  INFO testcases.LoginTest:40 - password entered
+09:28:53,710  INFO testcases.LoginTest:43 - confirmed username
+09:28:54,071  INFO testcases.LoginTest:46 - login button clicked
+09:28:55,097  INFO testcases.LoginTest:51 - login successful
+09:29:06,655  INFO testcases.LoginTest:34 - invalid login test started ....... 
+09:29:06,909  INFO testcases.LoginTest:37 - username entered
+09:29:07,137  INFO testcases.LoginTest:40 - password entered
+09:29:07,331  INFO testcases.LoginTest:43 - confirmed username
+09:29:07,431  INFO testcases.LoginTest:46 - login button clicked
+09:29:08,457  INFO testcases.LoginTest:51 - login successful
+09:29:19,890  INFO testcases.LoginTest:56 - valid login test started ....... 
+09:29:20,037  INFO testcases.LoginTest:59 - username entered
+09:29:20,154  INFO testcases.LoginTest:62 - password entered
+09:29:20,255  INFO testcases.LoginTest:65 - confirmed username
+09:29:20,469  INFO testcases.LoginTest:68 - login button clicked
+09:29:22,135  INFO testcases.LoginTest:73 - login successful
+09:50:44,379  INFO testcases.LoginTest:34 - invalid login test started ....... 
+09:50:44,557  INFO testcases.LoginTest:37 - username entered
+09:50:44,676  INFO testcases.LoginTest:40 - password entered
+09:50:44,778  INFO testcases.LoginTest:43 - confirmed username
+09:50:44,959  INFO testcases.LoginTest:46 - login button clicked
+09:50:46,004  INFO testcases.LoginTest:51 - login successful
+09:50:57,551  INFO testcases.LoginTest:34 - invalid login test started ....... 
+09:50:57,885  INFO testcases.LoginTest:37 - username entered
+09:50:58,112  INFO testcases.LoginTest:40 - password entered
+09:50:58,313  INFO testcases.LoginTest:43 - confirmed username
+09:50:58,573  INFO testcases.LoginTest:46 - login button clicked
+09:50:59,620  INFO testcases.LoginTest:51 - login successful
+09:51:11,748  INFO testcases.LoginTest:56 - valid login test started ....... 
+09:51:11,894  INFO testcases.LoginTest:59 - username entered
+09:51:12,008  INFO testcases.LoginTest:62 - password entered
+09:51:12,115  INFO testcases.LoginTest:65 - confirmed username
+09:51:12,308  INFO testcases.LoginTest:68 - login button clicked
+09:51:13,657  INFO testcases.LoginTest:73 - login successful
+09:51:25,704  INFO testcases.LoginTest:56 - valid login test started ....... 
+09:51:25,929  INFO testcases.LoginTest:59 - username entered
+09:51:26,092  INFO testcases.LoginTest:62 - password entered
+09:51:26,257  INFO testcases.LoginTest:65 - confirmed username
+09:51:26,417  INFO testcases.LoginTest:68 - login button clicked
+09:53:38,176  INFO testcases.LoginTest:34 - invalid login test started ....... 
+09:53:38,424  INFO testcases.LoginTest:37 - username entered
+09:53:38,557  INFO testcases.LoginTest:40 - password entered
+09:53:38,714  INFO testcases.LoginTest:43 - confirmed username
+09:53:38,968  INFO testcases.LoginTest:46 - login button clicked
+09:53:40,036  INFO testcases.LoginTest:51 - login successful
+09:53:52,321  INFO testcases.LoginTest:34 - invalid login test started ....... 
+09:53:52,485  INFO testcases.LoginTest:37 - username entered
+09:53:52,645  INFO testcases.LoginTest:40 - password entered
+09:53:52,834  INFO testcases.LoginTest:43 - confirmed username
+09:53:53,054  INFO testcases.LoginTest:46 - login button clicked
+09:53:54,101  INFO testcases.LoginTest:51 - login successful
+09:54:06,268  INFO testcases.LoginTest:56 - valid login test started ....... 
+09:54:06,482  INFO testcases.LoginTest:59 - username entered
+09:54:06,646  INFO testcases.LoginTest:62 - password entered
+09:54:06,849  INFO testcases.LoginTest:65 - confirmed username
+09:54:07,039  INFO testcases.LoginTest:68 - login button clicked
+09:54:08,351  INFO testcases.LoginTest:73 - login successful
+09:54:19,857  INFO testcases.LoginTest:56 - valid login test started ....... 
+09:54:20,054  INFO testcases.LoginTest:59 - username entered
+09:54:20,203  INFO testcases.LoginTest:62 - password entered
+09:54:20,344  INFO testcases.LoginTest:65 - confirmed username
+09:54:20,656  INFO testcases.LoginTest:68 - login button clicked
+09:58:32,697  INFO testcases.LoginTest:56 - valid login test started ....... 
+09:58:32,895  INFO testcases.LoginTest:59 - username entered
+09:58:33,032  INFO testcases.LoginTest:62 - password entered
+09:58:33,157  INFO testcases.LoginTest:65 - confirmed username
+09:58:33,457  INFO testcases.LoginTest:68 - login button clicked
+09:58:34,883  INFO testcases.LoginTest:73 - login successful
+09:58:47,161  INFO testcases.LoginTest:56 - valid login test started ....... 
+09:58:47,321  INFO testcases.LoginTest:59 - username entered
+09:58:47,465  INFO testcases.LoginTest:62 - password entered
+09:58:47,631  INFO testcases.LoginTest:65 - confirmed username
+09:58:47,916  INFO testcases.LoginTest:68 - login button clicked
+10:01:38,167  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:01:38,425  INFO testcases.LoginTest:37 - username entered
+10:01:38,580  INFO testcases.LoginTest:40 - password entered
+10:01:38,731  INFO testcases.LoginTest:43 - confirmed username
+10:01:38,882  INFO testcases.LoginTest:46 - login button clicked
+10:01:39,956  INFO testcases.LoginTest:51 - login successful
+10:01:51,501  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:01:51,715  INFO testcases.LoginTest:37 - username entered
+10:01:51,862  INFO testcases.LoginTest:40 - password entered
+10:01:51,996  INFO testcases.LoginTest:43 - confirmed username
+10:01:52,178  INFO testcases.LoginTest:46 - login button clicked
+10:01:53,233  INFO testcases.LoginTest:51 - login successful
+10:02:04,694  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:02:04,886  INFO testcases.LoginTest:59 - username entered
+10:02:05,013  INFO testcases.LoginTest:62 - password entered
+10:02:05,142  INFO testcases.LoginTest:65 - confirmed username
+10:02:05,463  INFO testcases.LoginTest:68 - login button clicked
+10:02:06,791  INFO testcases.LoginTest:73 - login successful
+10:02:18,543  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:02:18,737  INFO testcases.LoginTest:59 - username entered
+10:02:18,887  INFO testcases.LoginTest:62 - password entered
+10:02:19,038  INFO testcases.LoginTest:65 - confirmed username
+10:02:19,196  INFO testcases.LoginTest:68 - login button clicked
+10:09:16,413  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:09:16,728  INFO testcases.LoginTest:37 - username entered
+10:09:16,889  INFO testcases.LoginTest:40 - password entered
+10:09:17,039  INFO testcases.LoginTest:43 - confirmed username
+10:09:17,276  INFO testcases.LoginTest:46 - login button clicked
+10:09:18,354  INFO testcases.LoginTest:51 - login successful
+10:09:30,599  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:09:30,804  INFO testcases.LoginTest:37 - username entered
+10:09:30,989  INFO testcases.LoginTest:40 - password entered
+10:09:31,187  INFO testcases.LoginTest:43 - confirmed username
+10:09:31,456  INFO testcases.LoginTest:46 - login button clicked
+10:09:44,835  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:09:45,029  INFO testcases.LoginTest:59 - username entered
+10:09:45,163  INFO testcases.LoginTest:62 - password entered
+10:09:45,287  INFO testcases.LoginTest:65 - confirmed username
+10:09:45,450  INFO testcases.LoginTest:68 - login button clicked
+10:09:46,865  INFO testcases.LoginTest:73 - login successful
+10:24:14,304  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:24:14,582  INFO testcases.LoginTest:37 - username entered
+10:24:14,722  INFO testcases.LoginTest:40 - password entered
+10:24:14,827  INFO testcases.LoginTest:43 - confirmed username
+10:24:15,030  INFO testcases.LoginTest:46 - login button clicked
+10:24:16,081  INFO testcases.LoginTest:51 - login successful
+10:24:27,848  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:24:28,055  INFO testcases.LoginTest:37 - username entered
+10:24:28,247  INFO testcases.LoginTest:40 - password entered
+10:24:28,463  INFO testcases.LoginTest:43 - confirmed username
+10:24:28,672  INFO testcases.LoginTest:46 - login button clicked
+10:24:42,040  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:24:42,195  INFO testcases.LoginTest:59 - username entered
+10:24:42,291  INFO testcases.LoginTest:62 - password entered
+10:24:42,413  INFO testcases.LoginTest:65 - confirmed username
+10:24:42,511  INFO testcases.LoginTest:68 - login button clicked
+10:24:43,850  INFO testcases.LoginTest:73 - login successful
+10:34:27,414  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:34:27,750  INFO testcases.LoginTest:37 - username entered
+10:34:27,971  INFO testcases.LoginTest:40 - password entered
+10:34:28,136  INFO testcases.LoginTest:43 - confirmed username
+10:34:28,342  INFO testcases.LoginTest:46 - login button clicked
+10:34:29,408  INFO testcases.LoginTest:51 - login successful
+10:34:41,518  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:34:41,739  INFO testcases.LoginTest:37 - username entered
+10:34:41,916  INFO testcases.LoginTest:40 - password entered
+10:34:42,076  INFO testcases.LoginTest:43 - confirmed username
+10:34:42,189  INFO testcases.LoginTest:46 - login button clicked
+10:34:55,439  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:34:55,605  INFO testcases.LoginTest:59 - username entered
+10:34:55,729  INFO testcases.LoginTest:62 - password entered
+10:34:55,866  INFO testcases.LoginTest:65 - confirmed username
+10:34:56,014  INFO testcases.LoginTest:68 - login button clicked
+10:34:57,348  INFO testcases.LoginTest:73 - login successful
+10:39:15,280  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:39:15,493  INFO testcases.LoginTest:37 - username entered
+10:39:15,638  INFO testcases.LoginTest:40 - password entered
+10:39:15,778  INFO testcases.LoginTest:43 - confirmed username
+10:39:15,987  INFO testcases.LoginTest:46 - login button clicked
+10:39:17,047  INFO testcases.LoginTest:51 - login successful
+10:39:28,852  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:39:29,082  INFO testcases.LoginTest:37 - username entered
+10:39:29,283  INFO testcases.LoginTest:40 - password entered
+10:39:29,500  INFO testcases.LoginTest:43 - confirmed username
+10:39:29,627  INFO testcases.LoginTest:46 - login button clicked
+10:39:43,174  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:39:43,347  INFO testcases.LoginTest:59 - username entered
+10:39:43,495  INFO testcases.LoginTest:62 - password entered
+10:39:43,625  INFO testcases.LoginTest:65 - confirmed username
+10:39:43,982  INFO testcases.LoginTest:68 - login button clicked
+10:39:45,354  INFO testcases.LoginTest:73 - login successful
+10:44:46,722  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:44:46,959  INFO testcases.LoginTest:37 - username entered
+10:44:47,058  INFO testcases.LoginTest:40 - password entered
+10:44:47,161  INFO testcases.LoginTest:43 - confirmed username
+10:44:47,267  INFO testcases.LoginTest:46 - login button clicked
+10:44:48,329  INFO testcases.LoginTest:51 - login successful
+10:44:59,744  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:44:59,949  INFO testcases.LoginTest:37 - username entered
+10:45:00,170  INFO testcases.LoginTest:40 - password entered
+10:45:00,355  INFO testcases.LoginTest:43 - confirmed username
+10:45:00,570  INFO testcases.LoginTest:46 - login button clicked
+10:45:13,653  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:45:13,845  INFO testcases.LoginTest:59 - username entered
+10:45:13,994  INFO testcases.LoginTest:62 - password entered
+10:45:14,148  INFO testcases.LoginTest:65 - confirmed username
+10:45:14,359  INFO testcases.LoginTest:68 - login button clicked
+10:45:15,682  INFO testcases.LoginTest:73 - login successful
+10:47:22,354  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:47:22,574  INFO testcases.LoginTest:37 - username entered
+10:47:22,710  INFO testcases.LoginTest:40 - password entered
+10:47:22,828  INFO testcases.LoginTest:43 - confirmed username
+10:47:23,067  INFO testcases.LoginTest:46 - login button clicked
+10:47:24,142  INFO testcases.LoginTest:51 - login successful
+10:47:35,946  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:47:36,138  INFO testcases.LoginTest:37 - username entered
+10:47:36,314  INFO testcases.LoginTest:40 - password entered
+10:47:36,494  INFO testcases.LoginTest:43 - confirmed username
+10:47:36,667  INFO testcases.LoginTest:46 - login button clicked
+10:47:49,775  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:47:49,972  INFO testcases.LoginTest:59 - username entered
+10:47:50,089  INFO testcases.LoginTest:62 - password entered
+10:47:50,214  INFO testcases.LoginTest:65 - confirmed username
+10:47:50,314  INFO testcases.LoginTest:68 - login button clicked
+10:47:51,691  INFO testcases.LoginTest:73 - login successful
+10:52:53,717  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:52:53,887  INFO testcases.LoginTest:37 - username entered
+10:52:53,993  INFO testcases.LoginTest:40 - password entered
+10:52:54,108  INFO testcases.LoginTest:43 - confirmed username
+10:52:54,270  INFO testcases.LoginTest:46 - login button clicked
+10:52:55,306  INFO testcases.LoginTest:51 - login successful
+10:53:07,258  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:53:07,407  INFO testcases.LoginTest:37 - username entered
+10:53:07,538  INFO testcases.LoginTest:40 - password entered
+10:53:07,700  INFO testcases.LoginTest:43 - confirmed username
+10:53:07,858  INFO testcases.LoginTest:46 - login button clicked
+10:53:20,910  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:53:21,112  INFO testcases.LoginTest:59 - username entered
+10:53:21,304  INFO testcases.LoginTest:62 - password entered
+10:53:21,452  INFO testcases.LoginTest:65 - confirmed username
+10:53:21,773  INFO testcases.LoginTest:68 - login button clicked
+10:53:23,119  INFO testcases.LoginTest:73 - login successful
+10:55:38,065  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:55:38,245  INFO testcases.LoginTest:37 - username entered
+10:55:38,341  INFO testcases.LoginTest:40 - password entered
+10:55:38,449  INFO testcases.LoginTest:43 - confirmed username
+10:55:38,731  INFO testcases.LoginTest:46 - login button clicked
+10:55:39,771  INFO testcases.LoginTest:51 - login successful
+10:55:51,546  INFO testcases.LoginTest:34 - invalid login test started ....... 
+10:55:51,791  INFO testcases.LoginTest:37 - username entered
+10:55:52,024  INFO testcases.LoginTest:40 - password entered
+10:55:52,237  INFO testcases.LoginTest:43 - confirmed username
+10:55:52,528  INFO testcases.LoginTest:46 - login button clicked
+10:56:06,087  INFO testcases.LoginTest:56 - valid login test started ....... 
+10:56:06,299  INFO testcases.LoginTest:59 - username entered
+10:56:06,465  INFO testcases.LoginTest:62 - password entered
+10:56:06,690  INFO testcases.LoginTest:65 - confirmed username
+10:56:06,906  INFO testcases.LoginTest:68 - login button clicked
+10:56:08,565  INFO testcases.LoginTest:73 - login successful
+11:13:51,682 DEBUG org.apache.http.client.protocol.RequestAddCookies:123 - CookieSpec selected: standard
+11:13:51,700 DEBUG org.apache.http.client.protocol.RequestAuthCache:77 - Auth cache not set in the context
+11:13:51,702 DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager:265 - Connection request: [route: {s}->https://raw.githubusercontent.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+11:13:51,731 DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager:309 - Connection leased: [id: 0][route: {s}->https://raw.githubusercontent.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+11:13:51,735 DEBUG org.apache.http.impl.execchain.MainClientExec:235 - Opening connection {s}->https://raw.githubusercontent.com:443
+11:13:51,777 DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator:139 - Connecting to raw.githubusercontent.com/151.101.184.133:443
+11:13:51,778 DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory:337 - Connecting socket to raw.githubusercontent.com/151.101.184.133:443 with timeout 0
+11:13:51,865 DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+11:13:51,865 DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_RSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA, TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_RSA_WITH_3DES_EDE_CBC_SHA, SSL_DHE_DSS_WITH_3DES_EDE_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+11:13:51,866 DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory:395 - Starting handshake
+11:13:52,019 DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory:425 - Secure session established
+11:13:52,020 DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+11:13:52,020 DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+11:13:52,022 DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory:435 -  peer principal: CN=www.github.com, O="GitHub, Inc.", L=San Francisco, ST=California, C=US
+11:13:52,023 DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory:444 -  peer alternative names: [www.github.com, *.github.com, github.com, *.github.io, github.io, *.githubusercontent.com, githubusercontent.com]
+11:13:52,023 DEBUG org.apache.http.conn.ssl.SSLConnectionSocketFactory:448 -  issuer principal: CN=DigiCert SHA2 High Assurance Server CA, OU=www.digicert.com, O=DigiCert Inc, C=US
+11:13:52,025 DEBUG org.apache.http.impl.conn.DefaultHttpClientConnectionOperator:146 - Connection established 192.168.1.239:55851<->151.101.184.133:443
+11:13:52,026 DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 30000
+11:13:52,026 DEBUG org.apache.http.impl.execchain.MainClientExec:256 - Executing request GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1
+11:13:52,026 DEBUG org.apache.http.impl.execchain.MainClientExec:261 - Target auth state: UNCHALLENGED
+11:13:52,028 DEBUG org.apache.http.impl.execchain.MainClientExec:267 - Proxy auth state: UNCHALLENGED
+11:13:52,031 DEBUG org.apache.http.headers:133 - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1
+11:13:52,031 DEBUG org.apache.http.headers:136 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.6
+11:13:52,031 DEBUG org.apache.http.headers:136 - http-outgoing-0 >> Connection: keep-alive
+11:13:52,032 DEBUG org.apache.http.headers:136 - http-outgoing-0 >> Host: raw.githubusercontent.com
+11:13:52,032 DEBUG org.apache.http.headers:136 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+11:13:52,032 DEBUG org.apache.http.wire:73 - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/versions.properties HTTP/1.1[\r][\n]"
+11:13:52,033 DEBUG org.apache.http.wire:73 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.6[\r][\n]"
+11:13:52,033 DEBUG org.apache.http.wire:73 - http-outgoing-0 >> "Connection: keep-alive[\r][\n]"
+11:13:52,034 DEBUG org.apache.http.wire:73 - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+11:13:52,034 DEBUG org.apache.http.wire:73 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+11:13:52,034 DEBUG org.apache.http.wire:73 - http-outgoing-0 >> "[\r][\n]"
+11:13:52,172 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+11:13:52,172 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+11:13:52,172 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+11:13:52,173 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+11:13:52,173 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+11:13:52,173 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+11:13:52,173 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "ETag: W/"c815ce7acd5181b54e0d388e771be3880aff256ffed72d33aa5f40baf8cfcd2d"[\r][\n]"
+11:13:52,173 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+11:13:52,174 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+11:13:52,174 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "X-Geo-Block-List:[\r][\n]"
+11:13:52,174 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "X-GitHub-Request-Id: F296:38FA:44B8B3:556B56:5E04DC40[\r][\n]"
+11:13:52,174 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+11:13:52,174 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Content-Length: 672[\r][\n]"
+11:13:52,174 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+11:13:52,175 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Date: Thu, 26 Dec 2019 16:13:52 GMT[\r][\n]"
+11:13:52,175 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+11:13:52,175 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+11:13:52,175 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "X-Served-By: cache-mdw17327-MDW[\r][\n]"
+11:13:52,175 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "X-Cache: MISS[\r][\n]"
+11:13:52,176 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "X-Cache-Hits: 0[\r][\n]"
+11:13:52,176 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "X-Timer: S1577376833.876554,VS0,VE82[\r][\n]"
+11:13:52,176 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Vary: Authorization,Accept-Encoding[\r][\n]"
+11:13:52,177 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+11:13:52,177 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "X-Fastly-Request-ID: de0902fabfde3efe46c0ee3b7ba51b32758335dc[\r][\n]"
+11:13:52,177 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Expires: Thu, 26 Dec 2019 16:18:52 GMT[\r][\n]"
+11:13:52,178 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "Source-Age: 0[\r][\n]"
+11:13:52,178 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "[\r][\n]"
+11:13:52,178 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0x8d][0x95][0xcb][0xae][0xdb] [0x10]@[0xf7][0xf9][\n]"
+11:13:52,179 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "[0xa4][0xbb]i[0x17][0xc1][0xbc][0xc]v$6}[0xae][0xaa].[0xda][0x1f]p[0x12][0x92]X[0xd7]1[0x11]vn[0xda]~}[0x19][0x1e].[0xd7]j[0xa5].[0xcf]1[0xc][0x13]f[0x98]<[0xa1][0xef][0x97]~B[0xa7]~0[0xe8]`[0xc7][0xb9][0xeb][0xc7][0x9][0xcd][0x17][0x83][0x9e]G[0xfb][0x18][0xd1][0x8b]qSo[0xbd]:Y[0x87][0x8e][0xae][0x7]Fo[0xf6][0xfd][0xd8][0xb9][0x9f]o[0xfd][0x86][0xeb][0xad][0x9b][0xfb][0xbd][0xdf][0xfb][0xe8][0xe7]K[0xd8]w[0xb0][0xce][0x99][0xe9]f[0xc7]c?[0x9e][0xd1][0xde][0xd9][0xc7]d\[0x8e][0xb3][0xd9]<[0xa1]wQ[0xed][0xd0]gk[0xcf]~[0xe7][0xfb][0x8b][0xb3]W[0x83][0xb6][0xe8]C[0x8][0xbf]C[0x87] [0xe2]a~[0xfd]7{w[0x7][0xb3]C[0x97]y[0xbe][0xed][0xaa][0xaa][0xfc][0x8a][0x3][0xf4][0xf7]+[0xb6][0xee]\[0x1d]}[0xc2][0x83][0xed][0x8e][0xd3]&[0xae]i[0x88]n[0x8]&[0x98][0xb7][0x8d][0xc2]T&[0xab]Z[0xad][0xda]`E[0x8d][0xf9]b[0x1b][0xad][0x9a]`[0x89][0xc0][0x94][0xd4]Y+[0xad][0x14][0xe8]F[0xd6]X[0x90]l[0xa5]V2X[0xd2]b[0xca][0x96][0x18][0xb5]V5h[0xa5][0x8][0xa6]V[0xb][0xad]D[0xd0][0xac][0xc5][0xcb]Z[0xae][0x15][0x7])[0x1b][0x8e]e[0x93]-[0xd3][0xc][0x8b]e[\r]}E[0x4]('&[ [0x91][0xa9][0x1]b[0x99][0x14][0x10][0xcd]$[0x81]r2[0xb2][0xf6][0xc4][0xf3]yR[0x0][0xa9]L[0x1c]([0x9f]'![0x17][0xbe][0x9c][0x7][0xb9][0xf0][0xe5]<[0xc8][0x85][0xf3]W[0xd5][0xfc]b[0xf5][0xc3][0xd0][0xa1]O[0xbd]3'[0xfb][0xa3][0xa8][0xe7][0xd9][0x1c][0x9e][0xed]_[0xcb]9[0xf9]z[0x9e]}[0xe3][0xdc][0xf7][0xd8][0xb7]Ru[0x8d]![0xaa]bC[0xe5][0xcc]`[0xba][0xc9]L[0x9b]S[0x8c][0xeb]8[0xc1][0xcc][0xdf][0xfe]"[0x1a][0x10]u![0x14][0x8]Q[0x8][0xb9][0x16][0xf5]Z[0x8][0x10][0xbc][0x10]|-[0x18][0x8]V[0x8][\n]"
+11:13:52,179 DEBUG org.apache.http.wire:73 - http-outgoing-0 << "[0x82][0x16][0x82][0xac]D[0xdd][0xae]E[0xb3][0x16]j-B[0xa6][0xa4][0x10]u[0x16][0xe5]U[0xbd][0x19][0xd7][0x15][0x17]l[0x81][0xff][0xe7][0x82][0xc3][0xc2][0xc9][0x9e][0xe6]G[0xe7]L[0xa4][0xfc][0x82][0xd6][0xd7][0x1d]>[0xfa][0x8b][0xfa][0xf3]*[0x1a][0x95][0xa4]([0xde][0x4]e$Y^[0xbe][0x9][0xce][0x92]e[0xe5][0x93] ymj[0xe5][0x0]u[Bj[0xe4][0x8][0xa9][0x8f]#[0xa4]6[0x8e][0x90][0xba]8Bj[0xe2][0x8][0xa9][0x87]#[0xa4][0x16][0x8e]@c[0xcf]F [0x5][0x8][0xc8] g, [0x3][0x9e][0xce][0x11][0x90][0x1]k[0x13][0xc8][0x8][0xaf][0x9a][0xbe]?8[0xb][0x17][0x8a]>[0x1e][0xcf][0xe5][0xc][0xbb]N[0xc6][0x8b][0xd6][0xe4]h^[0xcc][0x0]Q[0xf1]5G[0x8][0x5]2[0xe3][0xf6]>U[0x8b][0xdb]B[0x90]j[0xb6]v[0x98][0xaa][0x87][0xd9][0xa7][0x1a]m[0xc0].[0xc3]MR[0xdc][0x6][0xb3][0xc]6[\n]"
+11:13:52,180 DEBUG org.apache.http.wire:87 - http-outgoing-0 << "}[0x1b]L[0x1a]j[0xc][0xea][0x15]M[0x9a]g[0x8c]/&[0xcd]2[0xda],[0xbb][0xd2][0x18][0xa3][0xbc][0xf5][0xad][0x17][0x94][0x10][0xfa][0xe6][0xcc][0xd6][0xff]5[0xcc][0xdd]0[0x98]c[0x94]LKL[0x15][0xf5]S! [0xd5][0xbe][0x1d]$kc6[0x82]h?Hk"y@[0xde]h[0xee]g"o#2([0xa0][0x1f][0xb3][0x8d][0x8c]H4[0xf5][0xc8]|}[0x3][0x7][0xde]/r[0x90][0x6][0x0][0x0]"
+11:13:52,184 DEBUG org.apache.http.headers:122 - http-outgoing-0 << HTTP/1.1 200 OK
+11:13:52,184 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+11:13:52,185 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+11:13:52,185 DEBUG org.apache.http.headers:125 - http-outgoing-0 << X-Content-Type-Options: nosniff
+11:13:52,185 DEBUG org.apache.http.headers:125 - http-outgoing-0 << X-Frame-Options: deny
+11:13:52,185 DEBUG org.apache.http.headers:125 - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+11:13:52,186 DEBUG org.apache.http.headers:125 - http-outgoing-0 << ETag: W/"c815ce7acd5181b54e0d388e771be3880aff256ffed72d33aa5f40baf8cfcd2d"
+11:13:52,186 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+11:13:52,186 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Cache-Control: max-age=300
+11:13:52,186 DEBUG org.apache.http.headers:125 - http-outgoing-0 << X-Geo-Block-List:
+11:13:52,187 DEBUG org.apache.http.headers:125 - http-outgoing-0 << X-GitHub-Request-Id: F296:38FA:44B8B3:556B56:5E04DC40
+11:13:52,187 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Content-Encoding: gzip
+11:13:52,187 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Content-Length: 672
+11:13:52,188 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Accept-Ranges: bytes
+11:13:52,188 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Date: Thu, 26 Dec 2019 16:13:52 GMT
+11:13:52,188 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Via: 1.1 varnish
+11:13:52,188 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Connection: keep-alive
+11:13:52,189 DEBUG org.apache.http.headers:125 - http-outgoing-0 << X-Served-By: cache-mdw17327-MDW
+11:13:52,189 DEBUG org.apache.http.headers:125 - http-outgoing-0 << X-Cache: MISS
+11:13:52,189 DEBUG org.apache.http.headers:125 - http-outgoing-0 << X-Cache-Hits: 0
+11:13:52,189 DEBUG org.apache.http.headers:125 - http-outgoing-0 << X-Timer: S1577376833.876554,VS0,VE82
+11:13:52,190 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Vary: Authorization,Accept-Encoding
+11:13:52,191 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Access-Control-Allow-Origin: *
+11:13:52,191 DEBUG org.apache.http.headers:125 - http-outgoing-0 << X-Fastly-Request-ID: de0902fabfde3efe46c0ee3b7ba51b32758335dc
+11:13:52,192 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Expires: Thu, 26 Dec 2019 16:18:52 GMT
+11:13:52,192 DEBUG org.apache.http.headers:125 - http-outgoing-0 << Source-Age: 0
+11:13:52,198 DEBUG org.apache.http.impl.execchain.MainClientExec:285 - Connection can be kept alive indefinitely
+11:13:52,219 DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager:341 - Connection [id: 0][route: {s}->https://raw.githubusercontent.com:443] can be kept alive indefinitely
+11:13:52,220 DEBUG org.apache.http.impl.conn.DefaultManagedHttpClientConnection:88 - http-outgoing-0: set socket timeout to 0
+11:13:52,220 DEBUG org.apache.http.impl.conn.PoolingHttpClientConnectionManager:348 - Connection released: [id: 0][route: {s}->https://raw.githubusercontent.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+11:14:02,404  INFO testcases.LoginTest:34 - invalid login test started ....... 
+11:14:03,183  INFO testcases.LoginTest:37 - username entered
+11:14:03,289  INFO testcases.LoginTest:40 - password entered
+11:14:03,352  INFO testcases.LoginTest:43 - confirmed username
+11:14:05,283  INFO testcases.LoginTest:46 - login button clicked
+11:14:06,122  INFO testcases.LoginTest:51 - login successful
+11:14:14,129  INFO testcases.LoginTest:34 - invalid login test started ....... 
+11:14:14,881  INFO testcases.LoginTest:37 - username entered
+11:14:15,177  INFO testcases.LoginTest:40 - password entered
+11:14:15,442  INFO testcases.LoginTest:43 - confirmed username
+11:14:16,770  INFO testcases.LoginTest:46 - login button clicked
+11:14:53,957  INFO testcases.LoginTest:34 - invalid login test started ....... 
+11:14:54,137  INFO testcases.LoginTest:37 - username entered
+11:14:54,253  INFO testcases.LoginTest:40 - password entered
+11:14:54,375  INFO testcases.LoginTest:43 - confirmed username
+11:14:54,535  INFO testcases.LoginTest:46 - login button clicked
+11:14:55,571  INFO testcases.LoginTest:51 - login successful

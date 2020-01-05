@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Functional Test]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listeners.Listener"/>
+  </listeners>
+  <test thread-count="5" name="login Test(failed)">
+    <classes>
+      <class name="testcases.LoginTest">
+        <methods>
+          <include name="validLoginTest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="invalidLoginTest"/>
+        </methods>
+      </class> <!-- testcases.LoginTest -->
+    </classes>
+  </test> <!-- login Test(failed) -->
+</suite> <!-- Failed suite [Functional Test] -->
